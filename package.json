@@ -45,9 +45,10 @@
     "react-addons-test-utils": "^15.0.0"
   },
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0"
+    "react": "^0.14.0 || ^15.0.0 || 16.0.0"
   },
   "dependencies": {
+    "prop-types": "^15.6.0",
     "sanitize-html": "^1.11.1"
   },
   "standard": {
