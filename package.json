@@ -2,7 +2,7 @@
   "name": "react-simple-format",
   "version": "0.3.0",
   "description": "Turns double newlines into different paragraphs. Similar to RoR simple_format.",
-  "main": "lib/index",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/rilkevb/react-simple-format.git"
